@@ -1,4 +1,4 @@
-# The One Memory Access sketch framework
+# The One Memory Access sketch
 
 
 ## Introduction
