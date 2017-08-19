@@ -28,3 +28,8 @@ You just need:
 ## Output format
 
 Our program will print the correct rate, the throughput of insertion and query of these sketches, the ARE and AAE of these sketches, and the average number of memory accesses of insertion and query of the OM sketch. Note that to obtain convincing results of the throughput, you are supposed to set the micro "testcycles" in the main.cpp to a larger value (e.g. 100) and to run the program on a Linux server.
+
+
+## Publication
+
+[One Memory Access Sketch: a More Accurate and Faster Sketch for Per-flow Measurement]http://www.zhouy.me/paper/OM-Globecom-Yang.pdf)
