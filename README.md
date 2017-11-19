@@ -32,4 +32,4 @@ Our program will print the correct rate, the throughput of insertion and query o
 
 ## Publication
 
-[One Memory Access Sketch: a More Accurate and Faster Sketch for Per-flow Measurement](http://www.zhouy.me/paper/OM-Globecom-Yang.pdf)
+[One Memory Access Sketch: a More Accurate and Faster Sketch for Per-flow Measurement](http://www.zhouy.me/paper/om-globecom17.pdf)
